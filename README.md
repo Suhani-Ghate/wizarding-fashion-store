@@ -1,4 +1,4 @@
-# Nocturne — Harry Potter-Inspired Fashion Website ✨
+Nocturne — Harry Potter-Inspired Fashion Website 
 
 Nocturne is a fashion website inspired by the Harry Potter universe. It combines fashion with the magical atmosphere of the wizarding world through themed collections and visual design.
 
